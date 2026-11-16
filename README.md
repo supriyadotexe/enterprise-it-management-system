@@ -201,15 +201,7 @@ The most recent verified results are:
 - Lint: 0 errors, 4 warnings.
 - Production build: successful.
 
-## Current implementation and testing status
-
-- Phase 0 design: complete.
-- Phase 1 application shell: complete.
-- Phase 2 database and seed: complete.
-- Phase 3 API and lifecycle services: complete.
-- Phase 4 frontend implementation: complete.
-- Phase 5 integration, end-to-end and system testing: complete.
-- Phase 6 documentation and deliverables: in progress.
+## Testing status
 
 Backend integration tests use an isolated `eitams_test` database and reset it before every
 test. Frontend verification has been performed through browser workflow checks; no automated
@@ -232,8 +224,7 @@ frontend test framework is currently installed.
 
 This repository is an independently developed academic prototype. It uses synthetic data only
 and does not contain real employee, asset, request or maintenance records. It was developed
-to study enterprise IT asset and service management concepts in the context of summer training
-at Ordnance Factory Kanpur.
+to study enterprise IT asset and service management concepts in the context of summer training.
 
 The prototype is not deployed, adopted, commissioned or integrated with any organisation. Any
 comparison with an existing enterprise application is evidence-based and clearly separates
