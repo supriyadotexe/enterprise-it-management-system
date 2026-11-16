@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+coverage/
+
+# Environment files — never commit secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Logs and local tooling
+*.log
+npm-debug.log*
+*-test-output.txt
+.vite/
+.eslintcache
+.prettiercache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local MySQL data directories and runtime artifacts
+mysql-data/
+.mysql/
+*.pid
