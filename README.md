@@ -2,6 +2,14 @@
 
 Product identity: **Nexora — IT Operations Suite**
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 032626" src="https://github.com/user-attachments/assets/fddf6546-075c-42de-b47a-fc682d4e5a5f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 032918" src="https://github.com/user-attachments/assets/0302e7f0-7201-4ab1-94c5-614c1fb1d0df" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 032928" src="https://github.com/user-attachments/assets/96223329-c91a-41d5-a056-4e4c65659121" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 032945" src="https://github.com/user-attachments/assets/eb7d14b7-561f-4e9e-872e-03a5532eec9a" />
+
 Academic prototype for managing employees, departments, IT assets, allocations, service
 requests and maintenance. The application is an independently developed React/Node.js/Express/MySQL
 prototype using synthetic data. It was developed in the context of studying enterprise IT
