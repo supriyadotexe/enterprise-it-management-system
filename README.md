@@ -5,7 +5,7 @@ Product identity: **Nexora — IT Operations Suite**
 Academic prototype for managing employees, departments, IT assets, allocations, service
 requests and maintenance. The application is an independently developed React/Node.js/Express/MySQL
 prototype using synthetic data. It was developed in the context of studying enterprise IT
-applications during summer training at Ordnance Factory Kanpur. It is not deployed at, adopted
+applications during summer training. It is not deployed at, adopted
 by, commissioned for, or integrated with any organisation, and it does not use institutional or
 production data.
 
