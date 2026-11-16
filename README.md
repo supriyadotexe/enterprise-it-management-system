@@ -1,4 +1,4 @@
-# Enterprise IT Asset & Service Management System (EITAMS)
+# Enterprise IT Asset & Service Management System
 
 Product identity: **Nexora — IT Operations Suite**
 
